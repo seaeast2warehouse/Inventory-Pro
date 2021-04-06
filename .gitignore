@@ -11,6 +11,57 @@
 /[Mm]emoryCaptures/
 /[Uu]serSettings
 
+
+# Custom stuff
+Assets/Integrations/
+PackageExports/
+AssetStoreVisuals/
+Assets/UFPS/
+Assets/Behavior Designer/
+Assets/PlayMaker/
+Assets/Plugins/
+Assets/Dialogue System/
+Assets/Dialogue System Examples/
+Assets/plyData/
+Assets/AssetStoreTools/
+Assets/EditorGUI Style Viewer/
+Assets/Gizmos/
+Assets/Easy Save 2/
+Assets/UnityVS/
+Assets/plyoung/
+Assets/Photon Unity Networking/
+Builds/
+Assets/Monster/
+Assets/iTween/
+Assets/UnityTestTools/
+Assets/kolmich/
+Assets/Features/
+Assets/Art/
+Assets/Scenes/
+Assets/Animation/
+Assets/Mad Compile Time Optimizer/
+Assets/UMA/
+Assets/Standard Assets/
+Assets/SecretAnorak/
+Assets/Editor/UMA/
+Assets/InventoryProTutorials/
+Assets/RelationsInspector/
+Assets/NodeCanvas/
+Assets/InventorySystem/
+Assets/ConsoleE/
+Assets/Rewired/
+Assets/Crazy Minnow Studio/
+Exports/
+ScriptReference/
+Assets/Devdog/InventoryPro
+Assets/Devdog/InventoryPro/
+Assets/crosstales/
+Assets/Pixel Crushers/
+Assets/Rogo Digital/
+Assets/Editor Default Resources/
+Assets/Cinemachine/
+Assets/ConsolePro/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
